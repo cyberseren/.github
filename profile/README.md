@@ -7,7 +7,7 @@
 
 <h3 align="center">La plateforme qui pilote votre sécurité.</h3>
 
-CyberSeren réunit les solutions de cybersécurité leaders du marché sur sa plateforme Serenity, pour une vision unifiée de votre sécurité. Cybersécurité managée pour les PME.
+CyberSeren réunit les solutions de cybersécurité leaders du marché sur sa plateforme Serenity, pour une vision unifiée de votre sécurité. Cybersécurité managée.
 
 - **Serenity** : tableau de bord, assistant IA, automatisation par API, rapports périodiques.
 - **Partenaire officiel Palo Alto Networks** : Prisma Browser, Strata NGFW, Prisma SASE, Cortex XDR.
