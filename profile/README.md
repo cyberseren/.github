@@ -18,7 +18,7 @@ CyberSeren réunit les solutions de cybersécurité leaders du marché sur sa pl
 
 ### Liens
 
-[Site](https://cyberseren.com) · [Démonstration et audit gratuit](https://cyberseren.com/demonstration/) · [LinkedIn](https://www.linkedin.com/company/cyberseren)
+[Site](https://cyberseren.com) · [Démonstration et audit gratuit](https://cyberseren.com/demonstration/) · [LinkedIn](https://www.linkedin.com/company/cyberseren) · [X](https://x.com/CyberSeren)
 
 ---
 
