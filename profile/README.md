@@ -1,8 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-    <img src="logo-light.png" alt="CyberSeren" width="240">
-  </picture>
+  <a href="https://cyberseren.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+      <img src="logo-light.png" alt="CyberSeren" width="240">
+    </picture>
+  </a>
 </p>
 
 <h3 align="center">La plateforme qui pilote votre sécurité.</h3>
