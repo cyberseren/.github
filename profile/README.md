@@ -23,3 +23,13 @@ CyberSeren réunit les solutions de cybersécurité leaders du marché sur sa pl
 ---
 
 *CyberSeren brings leading cybersecurity solutions together on Serenity, its platform, for a unified view of your security. Official Palo Alto Networks partner.*
+
+<p align="center">
+  Partenaire officiel&nbsp;&nbsp;
+  <a href="https://www.paloaltonetworks.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="paloalto-dark.png">
+      <img src="paloalto-light.png" alt="Palo Alto Networks" height="28" align="absmiddle">
+    </picture>
+  </a>
+</p>
